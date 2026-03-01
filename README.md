@@ -16,22 +16,29 @@ Este repositório contém a resolução dos desafios propostos durante a jornada
 
 ## 📋 Os Desafios
 
-### 1. Você se tornará um programador contratado? 💼
+[Desafio 1: Você se tornará um programador contratado?](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio1Boolean.java) 💼
+
 Verifica se o aluno possui o conjunto de habilidades técnicas necessárias para uma vaga.
 * **Critério:** O aluno deve ter conhecimento em Banco de Dados, Spring, APIs REST e Microsserviços.
 * **Resultado:** Se todos forem `true`, exibe que consegue a vaga.
 
-### 2. O Algoritmo da Vaga 📈
+[Desafio 2: O Algoritmo da Vaga](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio2Boolean.java) 📈
+
 Calcula um score de preparação com base em três pilares:
 * **Estudo:** +50 pontos
 * **LinkedIn:** +25 pontos
 * **Currículo:** +25 pontos
 * **Resultado:** Se a pontuação for ≥ 70, o aluno está bem encaminhado.
 
-### 3. Validador de Currículo & LinkedIn 💬
+[Desafio 3: Validador de Currículo & LinkedIn](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio3IfElse.java) 💬
+
 Um programa interativo que utiliza a classe `Scanner` para conversar com o usuário.
 * **Lógica:** Pergunta sobre a organização do CV e LinkedIn.
 * **Resultado:** Parabeniza em caso positivo ou motiva em caso negativo, destacando a importância de um bom material de apresentação.
+  
+[Classe Main (Menu Principal)](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Main.java) 🎮
+
+O ponto de entrada que integra e permite escolher qual desafio executar.
 
 ---
 
