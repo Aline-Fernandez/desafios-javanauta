@@ -2,9 +2,10 @@
 
 <br>
 
+# 🚀 Desafios Javanauta - Lógica de Programação
+
 <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Plataforma-Javanauta-blueviolet?style=for-the-badge" alt="Plataforma" /> <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
-# 🚀 Desafios Javanauta - Lógica de Programação
 
 Este repositório contém a resolução dos desafios propostos durante a jornada **Javanauta**. O objetivo é exercitar a lógica de programação, o uso de tipos primitivos (boolean), estruturas condicionais e interação com o usuário em Java.
 
