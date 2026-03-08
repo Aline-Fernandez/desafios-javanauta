@@ -1,49 +1,45 @@
-<p align="center">
-  <img src="https://javanauta.com.br/wp-content/uploads/2024/03/Javanauta__3_-removebg-preview.png" alt="Logo Javanauta Academy" width="200"/>
-</p>
+<img src="https://javanauta.com.br/wp-content/uploads/2024/03/Javanauta__3_-removebg-preview.png" alt="Logo Javanauta Academy" width="200"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Plataforma-Javanauta-blueviolet?style=for-the-badge" alt="Plataforma" /> <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 # 🚀 Desafios Javanauta - Lógica de Programação
 
 Este repositório contém a resolução dos desafios propostos durante a jornada **Javanauta**. O objetivo é exercitar a lógica de programação, o uso de tipos primitivos (boolean), estruturas condicionais e interação com o usuário em Java.
 
-## 🛠️ Tecnologias Utilizadas
+---
 
+## 🚀 Progresso dos Desafios
+- [x] **Desafio 1:** Você se tornará um programador contratado? (Lógica Boolean)
+- [x] **Desafio 2:** O Algoritmo da Vaga (Cálculo de Score e Pontuação)
+- [x] **Desafio 3:** Validador de Currículo & LinkedIn (Interatividade com Scanner)
+- [x] **Classe Main:** Integração e Menu Principal do Projeto
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 * **Java 17** (ou superior)
 * **IntelliJ IDEA** (IDE)
 * **Git & GitHub** (Versionamento)
 
 ---
 
-## 📋 Os Desafios
+## 📋 Detalhes dos Desafios
 
-[Desafio 1: Você se tornará um programador contratado?](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio1Boolean.java) 💼
+### [Desafio 1: Habilidades Técnicas](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio1Boolean.java) 💼
+Verifica se o aluno possui o conjunto de habilidades necessárias (Banco de Dados, Spring, APIs REST e Microsserviços).
 
-Verifica se o aluno possui o conjunto de habilidades técnicas necessárias para uma vaga.
-* **Critério:** O aluno deve ter conhecimento em Banco de Dados, Spring, APIs REST e Microsserviços.
-* **Resultado:** Se todos forem `true`, exibe que consegue a vaga.
+### [Desafio 2: O Algoritmo da Vaga](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio2Boolean.java) 📈
+Calcula um score de preparação com base em pilares de Estudo, LinkedIn e Currículo.
 
-[Desafio 2: O Algoritmo da Vaga](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio2Boolean.java) 📈
-
-Calcula um score de preparação com base em três pilares:
-* **Estudo:** +50 pontos
-* **LinkedIn:** +25 pontos
-* **Currículo:** +25 pontos
-* **Resultado:** Se a pontuação for ≥ 70, o aluno está bem encaminhado.
-
-[Desafio 3: Validador de Currículo & LinkedIn](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio3IfElse.java) 💬
-
-Um programa interativo que utiliza a classe `Scanner` para conversar com o usuário.
-* **Lógica:** Pergunta sobre a organização do CV e LinkedIn.
-* **Resultado:** Parabeniza em caso positivo ou motiva em caso negativo, destacando a importância de um bom material de apresentação.
-  
-[Classe Main (Menu Principal)](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Main.java) 🎮
-
-O ponto de entrada que integra e permite escolher qual desafio executar.
+### [Desafio 3: Validador de Currículo](https://github.com/Aline-Fernandez/desafios-javanauta/blob/main/src/Desafio3IfElse.java) 💬
+Programa interativo que utiliza a classe `Scanner` para validar o material de apresentação do candidato.
 
 ---
 
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Aline-Fernandez/desafios-javanauta.git](https://github.com/Aline-Fernandez/desafios-javanauta.git)
+```bash
+git clone [https://github.com/Aline-Fernandez/desafios-javanauta.git](https://github.com/Aline-Fernandez/desafios-javanauta.git)
